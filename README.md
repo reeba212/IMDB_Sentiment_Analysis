@@ -30,5 +30,6 @@ jupyter notebook
 4. Open the IMDB_Sentiment_Analysis.ipynb notebook.
 5. Follow the instructions in the notebook to run the code and train the model.
 
-Results
+## Results
+
 The final accuracy achieved by the model was 86,46% on the testing set. The notebook contains detailed explanations of the code and the techniques used.
